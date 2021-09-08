@@ -1,1 +1,15 @@
 # FLAPPY-BIRD-2.0
+
+FIRST DOWNLOD THIS ZIP FILE AND EXTRACT IT AND RUN FlappyBird.exe FILE AND ENJOY THE GAME.
+
+![Screenshot 2021-09-08 192006](https://user-images.githubusercontent.com/76244693/132522033-a08d549c-11d6-4487-9186-fd68d95d502d.png)
+
+FlappyBird.exe FILE SHOWN IN ABOVE PICTURE.
+
+PLATFORM : UNITY 3D
+
+LANGUAGE : C#
+
+CREATED BY DARPAN MANEK
+
+CONTACT : darpanmanekgrt@gmail.com
